@@ -30,7 +30,7 @@ My Public Info Project
    Think of it as key-value pairs.
 
 
-:Writing here:    `My Name <my.name@gmail.com>`__
+:Writing here:    Marco Seiler
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `overview <..>`__
