@@ -33,9 +33,9 @@ My Public Info Project
 :Writing here:    Marco Seiler
 :Rendered:        |today|
 :Buildinfo:       `buildinfo <_buildinfo>`_
-:Others:          `Who else has a starter project?
-                  <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/>`__
+:Others:          `Who else has a starter project?`__
 
+__ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/
 
 .. _Martin: martin.bless@mbless.de
 
@@ -134,6 +134,14 @@ in TYPO3 documentation.
 TYPO3 - Inspire people to share!
 
 Martin_
+
+
+.. These are anonymous hyperlinks. Each link in the text, which is formed by TWO trailing
+   underscores, will consume the next of the following links.
+
+__ https://docs.typo3.org/typo3cms/RenderTYPO3DocumentationGuide/ProjectsOnGithub/Index.html
+__ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-000/reStructuredText/Index.html
+__ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-000/
 
 
 ---------------------------------------------
