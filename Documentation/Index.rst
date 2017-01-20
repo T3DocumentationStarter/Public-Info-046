@@ -57,7 +57,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 .. _hello:
 
-Hello,
+**Hello,**
 
 Martin_ here.
 
@@ -151,7 +151,7 @@ __ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-I
 
 .. _hallo:
 
-Hallo,
+**Hallo,**
 
 Martin_ hier.
 
