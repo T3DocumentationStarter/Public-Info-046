@@ -35,7 +35,7 @@ My Public Info Project
 :Buildinfo:       `buildinfo <_buildinfo>`_
 :Others:          `Who else has a starter project?`__
 
-__ <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/>`__
+__ https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/
 
 .. _Martin: martin.bless@mbless.de
 
