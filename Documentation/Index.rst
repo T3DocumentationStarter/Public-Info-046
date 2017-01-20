@@ -102,7 +102,9 @@ What's it about?
      
    - If something isn't working as you expect:
      
-     .. tip:: Watch the log!
+     .. tip:: 
+     
+        **Watch the log!**
      
         Each documentation project that's rendered by the new tool chain
         leaves a `/_buildinfo` folder that you can inspect in the web.
@@ -191,7 +193,9 @@ Worum geht's?
      
    - Wenn etwas nicht so funktioniert wie erwartet:
      
-     .. tip:: Schau ins Protokoll!
+     .. tip:: 
+     
+        **Schau ins Protokoll!**
 
         Jedes Doku-Projekt, dass mit der neuen TYPO3-Documentation_Toolchain gerendert wird,
         erhält auch einen `/_buildinfo` Ordner, den man hier im Web aufrufen kann. Darin ist
