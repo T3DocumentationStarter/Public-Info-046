@@ -71,8 +71,10 @@ What's it about?
 
 #. Never before has it been easier to write in this format:
 
-   - Goto `website <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__
-     and from there to YOUR project. Just remember the number.
+   - Goto `the drafts <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__,
+     from there `to the starter projects <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__
+     and from there to YOUR project. Just remember the number. We also keep a list of "Who is where?"
+     `here <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/Index.html#who-is-where>`__.
      
    - Go to your "Hello world!" page - for example.
    
