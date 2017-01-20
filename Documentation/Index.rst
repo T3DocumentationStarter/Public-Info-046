@@ -170,6 +170,12 @@ Worum geht's?
    - Du gehst auf die `Website <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__
      und dort zu DEINEM Projekt. Merk dir halt die Nummer.
      
+   - Geh zum `Entwurfsbereich  <https://docs.typo3.org/typo3cms/drafts/>`__,
+     von dort zu `den Starterprojecten <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/>`__
+     und von dort zu DEINEM Projekt. Merk dir einfach die Nummer. 
+     Wir führen auch eine Liste `"Wer ist wo?" hier
+     <https://docs.typo3.org/typo3cms/drafts/github/T3DocumentationStarter/Public-Info-001/TeachingDocs/StarterManuals/Index.html#who-is-where>`__.
+     
    - Geh z. B. auf die "Hello world!" Seite.
    
    - Drücke "Edit me on Github". Auf Github muss du angemeldet sein und darauf achten, dass du die
